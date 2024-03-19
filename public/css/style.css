@@ -1,0 +1,22 @@
+
+.dark\:bg-green-200\/70 {
+    background-color: rgb(187 247 208 / 0.7);
+}
+.dark\:bg-green-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(187 247 208 / var(--tw-bg-opacity));
+}
+.dark\:bg-blue-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(191 219 254 / var(--tw-bg-opacity));
+}
+.dark\:bg-gradient-to-r {
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+}
+.dark\:bg-transparent {
+    background-color: transparent;
+}
+.dark\:bg-blue-200 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(191 219 254 / var(--tw-bg-opacity));
+}
